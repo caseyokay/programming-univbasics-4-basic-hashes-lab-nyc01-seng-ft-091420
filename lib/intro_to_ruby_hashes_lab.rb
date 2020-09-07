@@ -18,3 +18,7 @@
 def new_hash
   hash = {}
 end
+
+def my_hash
+  { :favorite_color => "blue" }
+end
