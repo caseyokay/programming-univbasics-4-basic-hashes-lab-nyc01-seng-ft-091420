@@ -15,3 +15,6 @@
 #   id_hash_generator = {:id => number}
 # end
 
+def new_hash
+  hash = {}
+end
